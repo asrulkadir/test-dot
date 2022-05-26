@@ -44,3 +44,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     or
     $ yarn start
 ```
+
+### Access Login
+
+email/username: eve.holt@reqres.in
+password: password
